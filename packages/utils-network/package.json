@@ -15,7 +15,7 @@
     "@hint/utils-string": "^1.0.14",
     "@hint/utils-types": "^1.2.1",
     "content-type": "^1.0.5",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "https": "^1.0.0",
     "node-fetch": "^2.x"
   },
